@@ -1,4 +1,4 @@
 # Basic-website
-www.larshith.ml
 
-Https://larshith.ml
+www.larshith.lovestoblog.com
+Https://larshith.lovestoblog.com
